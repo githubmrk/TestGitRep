@@ -9,8 +9,16 @@
 Ввод команды git add . почему не 
 
 
-
-git commit - m' обязательно со скобочкой 
+или адд  сначала коммит потом пуш и все будет на сервере 
+git commit -m' обязательно со скобочкой 
 git status - проверка статуса 
 git push - залить файлы 
-git add . - Добавить в индекс 
+git add . - Добавить в индекс
+
+gir-rm - удаление файла
+git commit -m' потом git rm - чтоб удалить файл 
+
+git branch --list spisok vetok
+git branch --list -v info po poslednim commitam
+
+git checkout для переключения на ветку 
